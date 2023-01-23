@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <a href=" https://devrailan.github.io/Card-Animado-HTML-CSS/"><h1> CARD ANIMADO COM CSS E HTML</h1></a>
+    <a href="https://devrailan.github.io/Card-Animado-HTML-CSS/"><h1> CARD ANIMADO COM CSS E HTML</h1></a>
   <P> Animação em HTML e CSS, usando transform: translateY(); para fazer animação.
   </P>  
 </body>
